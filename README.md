@@ -1,6 +1,6 @@
 # Should we attend more or less? Modulating attention for fairness (COLM 2024)
 
-This is the official repository for [Should we attend more or less? Modulating attention for fairness](https://arxiv.org/pdf/2305.13088), accepted at ACL main 2024. 
+This is the official repository for [Should we attend more or less? Modulating attention for fairness](https://arxiv.org/pdf/2305.13088), accepted at COLM 2024. 
 
 **Summary**: We show that bias can be mitigated by focusing on a wider/narrower context.
 
